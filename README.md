@@ -2,11 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+完全免费的+ChatGPT+体验+🆓;🔒+无需登录+🆓+无限使用+💎;🤖+多模型支持+GPT-4o+Claude+Gemini+⚡" alt="动态标题"/>
 </div>
 
-<!-- 炫酷徽章墙 -->
 <p align="center">
   <img src="https://img.shields.io/badge/模型支持-GPT4o|Claude3|Gemini|Llama3-00ff00?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/yourrepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=访问量&edge_flat=false" alt="访问统计"/> 
-  <a href="en_README.md">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kldhsh123/myai-site&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=访问统计&edge_flat=false" alt="访问统计"/>
+  <a href="https://github.com/kldhsh123/myai-site/blob/main/en_README.md">
     <img src="https://img.shields.io/badge/EN_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
   </a>
 </p>
