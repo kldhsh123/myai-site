@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.myai.asia/">
-![img](https://github.com/user-attachments/assets/c28da08d-5ebe-4606-821c-fc96ee031963)
+    <img src="https://github.com/user-attachments/assets/c28da08d-5ebe-4606-821c-fc96ee031963" width="800" alt="演示动画"/>
 
   </a>
 </div>
