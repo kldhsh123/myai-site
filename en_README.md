@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Completely+Free+ChatGPT+Experience+🆓;🔒+No+Login+Required+🆓+Unlimited+Usage+💎;🤖+Multi-Model+Support+GPT-4o+Claude+Gemini+⚡" alt="Dynamic Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Completely+Free+ChatGPT+Experience+🆓;🔒+No+Login+Required+🆓+Unlimited+Usage+💎;🤖+Multi-Model+Support+ChatGPT+GLM+Gemini+DeepSeek+⚡" alt="Dynamic Header"/>
 </div>
 
 <p align="center">
