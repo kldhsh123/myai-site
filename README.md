@@ -5,9 +5,9 @@
 <!-- 炫酷徽章墙 -->
 <p align="center">
   <img src="https://img.shields.io/badge/模型支持-GPT4o|Claude3|Gemini|Llama3-00ff00?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=myai.asia.readme" alt="访问统计"/> 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername/yourrepo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=访问量&edge_flat=false" alt="访问统计"/> 
   <a href="en_README.md">
-    <img src="https://img.shields.io/badge/ENGLISH_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/EN_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
   </a>
 </p>
 
@@ -16,6 +16,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NvN2V3Y3p5dW1wN3BqOWU0c3N4dGJ5MjF6eHpzN3l5Z3Z1eHZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12NUbkXuzpCchG/giphy.gif" width="800" alt="演示动画"/>
   </a>
 </div>
+
 
 ## ✨ 核心特性
 <div align="center">
