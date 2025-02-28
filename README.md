@@ -12,7 +12,8 @@
 
 <div align="center">
   <a href="https://www.myai.asia/">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NvN2V3Y3p5dW1wN3BqOWU0c3N4dGJ5MjF6eHpzN3l5Z3Z1eHZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12NUbkXuzpCchG/giphy.gif" width="800" alt="演示动画"/>
+![img](https://github.com/user-attachments/assets/c28da08d-5ebe-4606-821c-fc96ee031963)
+
   </a>
 </div>
 
