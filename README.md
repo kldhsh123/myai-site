@@ -66,6 +66,3 @@
 ## 🤝 加入社区
 [![QQ群](https://img.shields.io/badge/QQ群-330316577-cyan?style=for-the-badge&logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=vFOh8aTsWPbQsv7ckU8-Rih9w-N6PFom&authKey=uzWNwmUSGD32aKVIGINOAcDrx0BC2I7uPz1mIMsM%2B5yygh8FIrDh7DMkRFQV2j4x8&noverify=0&group_code=330316577)
 [![Discord](https://img.shields.io/badge/Discord社区-在线-blue?style=for-the-badge&logo=discord)](https://discord.com/invite/CKrvgCyK4y)
-
-## 📜 开源协议
-[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
