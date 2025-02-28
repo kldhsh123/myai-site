@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/模型支持-GPT4o|Claude3|Gemini|Llama3-00ff00?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=myai.asia.readme" alt="访问统计"/> 
+[![HitCount](https://hits.dwyl.com/kldhsh123/myai-site.svg?style=flat-square)](http://hits.dwyl.com/kldhsh123/myai-site)
   <a href="en_README.md">
     <img src="https://img.shields.io/badge/ENGLISH_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
   </a>
