@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Model_Support-ChatGPT|GLM|Gemini|DeepSeek-00ff00?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kldhsh123/myai-site&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Stats&edge_flat=false" alt="Visitor Counter"/>
-  <a href="https://github.com/kldhsh123/myai-site/blob/main/en_README.md">
-    <img src="https://img.shields.io/badge/EN_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
+  <a href="https://github.com/kldhsh123/myai-site/blob/main/README.md">
+    <img src="https://img.shields.io/badge/ZH_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
   </a>
 </p>
 
