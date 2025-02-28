@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/模型支持-GPT4o|Claude3|Gemini|Llama3-00ff00?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
+  <img src="https://img.shields.io/badge/模型支持-ChatGPT|GLM|Gemini|DeepSeek-00ff00?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kldhsh123/myai-site&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=访问统计&edge_flat=false" alt="访问统计"/>
   <a href="https://github.com/kldhsh123/myai-site/blob/main/en_README.md">
     <img src="https://img.shields.io/badge/EN_README-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=blue"/>
@@ -23,7 +23,6 @@
 | 🚀 **极速响应** | 🔐 **隐私至上** | 🎭 **多模交互** | 
 |----------------|-----------------|----------------|
 | 平均响应速度 <500ms | 全程匿名使用 | 支持文本/代码/图像 |
-| ![响应速度图](https://images.ctfassets.net/00i767ygo3tc/1dWnSu3dS1EaDhlw4RzQJ/5e4ce228bda934d57a2d3e5ada3e803f/response-time-graph.gif) | ![加密演示](https://miro.medium.com/v2/resize:fit:1400/1*9hqax5QH9aArO3RXU7S3XQ.gif) | ![多模态](https://media.baamboozle.com/uploads/images/351519/1644912228_109512_url.gif) |
 
 </div>
 
